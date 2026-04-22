@@ -1,2 +1,2 @@
 # Progetto
-Lorenzi, Karoui and di Virgilio project
+Lorenzi and Karoui project
