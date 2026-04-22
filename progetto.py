@@ -47,7 +47,7 @@ def mostra_grafico(citta):
     plt.xlabel("Tempo")
     plt.ylabel("Temperatura (°C)")
     plt.xticks(rotation=45)
-    plt.grid()
+    plt.grid(True,linestyle='--', alpha=0.5)
     plt.tight_layout()
     plt.savefig("aura.png")
 
